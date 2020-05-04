@@ -8,3 +8,4 @@ This would be a lame duck.
 	greet("Alice", "hard purple");
  ?>
  <h1><?php bloginfo("name" ); ?></h1>
+ <p><?php bloginfo("description"); ?></p>
