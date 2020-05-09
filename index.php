@@ -14,13 +14,13 @@
 
  <?php 
 
- $names = array("Dogman", "Catman", "Batman", "Catamaranman", "Atmanman");
+ $names = array("Dogman", "Catman", "Batman", "Catamaranman", "Atmanman", "Womanman");
  
- $count = 1;
+ $i = 0;
 
- while($count < 54) {
- 	echo "<li> $count </li>";
- 	$count++;
+ while($i < count($names)) {
+ 	echo "<li> Here is $names[$i]! </li>";
+ 	$i++;
 
  }
 
