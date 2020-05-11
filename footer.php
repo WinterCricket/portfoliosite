@@ -1,0 +1,1 @@
+<footer><p> <strong>Hello from Footer!</strong> </p></footer>
