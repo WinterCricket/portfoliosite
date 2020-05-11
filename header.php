@@ -1,3 +1,11 @@
 
 
-<header><h1>Greetings from Header!</h1></header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<?php wp_head(); ?>
+	
+</head>
+<body>
+	<h1>Portfolio</h1>

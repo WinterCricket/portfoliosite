@@ -1,1 +1,6 @@
-<footer><p> <strong>Hello from Footer!</strong> </p></footer>
+<p> <strong>Goodbye from Footer!</strong> </p>
+
+
+</body>
+
+</html>
