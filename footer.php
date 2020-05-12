@@ -1,6 +1,6 @@
-<p> <strong>Goodbye from Footer!</strong> </p>
+<p> Goodbye from Footer! </p>
 
+<?php wp_footer(); ?> 
 
 </body>
-
 </html>
