@@ -2,6 +2,8 @@
 
 <?php get_header(); ?>
 
+<div  >
+
 <h2 class="projects-header">
 		Here are some of my projects
 	</h2>
@@ -56,7 +58,7 @@
 
 		
 	</section>
-
+</div>
 <?php 
 	get_footer();
 

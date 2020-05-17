@@ -9,7 +9,7 @@
 </head>
 <body>
 	
-	<header id="welcome-section" class="welcome">
+	<header id="welcome-section" class="welcome" style="background-image: url(<?php echo get_theme_file_uri('/images/rainwindow.png')?>);" >
 		<nav>
 			<ul id="navbar">
 				<li><a href="#welcome-section">Welcome!</a></li>
